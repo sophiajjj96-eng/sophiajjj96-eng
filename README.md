@@ -46,4 +46,4 @@ Technologies: Arduino, Sensors, CAD, 3D Printing
 ## Connect with me
 
 LinkedIn:  
-https://linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/sophiajwchoi/
