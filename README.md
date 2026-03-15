@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Sophia 👋
 
-<!--
-**sophiajjj96-eng/sophiajjj96-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Technology Management student at **New York University** interested in **data analytics, business analytics, and product analytics**.
 
-Here are some ideas to get you started:
+I enjoy using data to understand complex systems, identify improvement opportunities, and support data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- SQL
+- Tableau
+- Data Analysis
+- Business Analytics
+- Operations Analytics
+- Process Improvement
+
+---
+
+## Projects
+
+### F1 Performance Analytics
+Analyzed 20+ years of Formula 1 race data using SQL and Tableau to evaluate driver performance and competitiveness.
+
+Tools: SQL, Tableau, Data Analysis
+
+---
+
+### RAD Smart Home Safety Device
+Designed and prototyped a smart home safety system using Arduino sensors to detect fire and flood risks and automatically shut off devices.
+
+Technologies: Arduino, Sensors, CAD, 3D Printing
+
+---
+
+## Experience
+
+**Amazon — Area Manager Intern**
+
+- Conducted KPI-driven operational analysis during Prime Week  
+- Identified process bottlenecks contributing to an **8% YoY throughput improvement**
+- Built Excel and Tableau dashboards to monitor operational performance
+
+---
+
+## Connect with me
+
+LinkedIn:  
+https://linkedin.com/in/YOUR-LINKEDIN
